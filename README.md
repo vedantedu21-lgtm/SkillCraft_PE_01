@@ -2,7 +2,6 @@
 
 Internship Domain: Prompt Engineering  
 Intern: Vedant Chaudhari
-
 Organization: Skillcraft Technology
 
 ---
